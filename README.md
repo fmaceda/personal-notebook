@@ -14,3 +14,8 @@ After finishing the university, I got my first job as a Software Developer, havi
 Everything was great, but after completing many tasks, I realized that development wasn't all I wanted to do. That's when I decided to keep learning, and systems design was the first big subject I tackled. It was really challenging, and that's why I'm sharing here all my experience for those who are starting this journey.
 
 I hope you find it useful.
+
+### Content
+
+* **Foundations:** Before designing systems, it's required a solid mental model of how computers and networks actually work.
+*
